@@ -6,3 +6,11 @@ the .gitignore file was sourced from https://github.com/github/gitignore/blob/ma
 # Activity 2
 
 ![Alt text](images/activity2.png)
+
+# Activity 3
+
+![Alt text](images/activity3.png)
+
+# Activity 4
+
+![Alt text](images/activity4.png)
